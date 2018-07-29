@@ -43,3 +43,5 @@
 ### 项目截图
 系统流程图：
 ![系统流程图](https://github.com/mayaoting/CloudSystem/blob/master/static/SystemInterfacesImages/新流程图.png)
+@cloud主页截图：
+![主页截图](https://github.com/mayaoting/CloudSystem/blob/master/static/SystemInterfacesImages/@cloud主页截图.png)
