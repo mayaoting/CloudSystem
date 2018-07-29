@@ -40,3 +40,6 @@
     数据库：MySqL Redis
     测试工具：postman
 ###### 注：该系统前后端分离
+### 项目截图
+    系统流程图：
+    ![系统流程图](https://github.com/mayaoting/CloudSystem.git/CloudSystem/static/SystemInterfacesImages/新流程图.png)
