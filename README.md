@@ -29,14 +29,14 @@
     通知管理
     管理员查看分布式文件系统状态
 
-前后端框架技术选择
-前端使用的技术与框架：
-Vue.js 、ElementUI、JQuery 、 IView 、 Pdf.js、 QQFace 、 
-数据可视化： Echarts
-后端使用的技术与框架：
-Spring boot 、Mybatis-plus、Nginx、 WebUploader、 Aspose、 JWT 、FastDFS、
-会话：WebSocket
-安全框架：Spring Security
-数据库：MySqL Redis
-测试工具：postman
-注：该系统前后端分离
+#### 前后端框架技术选择
+###### 前端使用的技术与框架：
+    Vue.js 、ElementUI、JQuery 、 IView 、 Pdf.js、 QQFace 、 
+    数据可视化： Echarts
+###### 后端使用的技术与框架：
+    Spring boot 、Mybatis-plus、Nginx、 WebUploader、 Aspose、 JWT 、FastDFS、
+    会话：WebSocket
+    安全框架：Spring Security
+    数据库：MySqL Redis
+    测试工具：postman
+###### 注：该系统前后端分离
